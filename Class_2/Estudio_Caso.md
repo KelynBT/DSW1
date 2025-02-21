@@ -88,3 +88,33 @@ Esta historia muestra cómo cada rol fue importante para lograr un proyecto exit
 
 🚀 **¡Ahora es tu turno de ser parte de tu propia empresa de software y trabajar en equipo para crear una solución!** 🎯
 
+
+---
+
+## 🗣️ **Comunicación entre los miembros del equipo:**
+Una comunicación clara y efectiva es clave para el éxito del proyecto. En QuickTech, los integrantes del equipo se comunican de la siguiente forma:
+
+- **Cliente (Ana) ↔ Analista (Mateo):** Ana le explica sus necesidades a Mateo, quien se asegura de entenderlas y las traduce en requisitos claros. Mateo también consulta a Ana si surgen dudas durante el proyecto.
+- **Analista (Mateo) ↔ Project Manager (Lucía):** Mateo comparte los requisitos con Lucía para que pueda planificar las tareas. Si hay cambios o aclaraciones del cliente, Mateo se lo comunica a Lucía.
+- **Project Manager (Lucía) ↔ Desarrollador (Carlos):** Lucía coordina las actividades con Carlos, explicándole los requisitos y estableciendo los tiempos de entrega. Carlos puede consultarle dudas o pedir ajustes en la planificación si es necesario.
+- **Desarrollador (Carlos) ↔ Tester (Valeria):** Carlos informa a Valeria cuando termina de programar una función para que ella pueda probarla. Valeria le devuelve comentarios sobre los errores encontrados o mejoras necesarias.
+- **Project Manager (Lucía) ↔ Cliente (Ana):** Lucía mantiene al cliente informado sobre el avance y organiza reuniones para presentar avances y recoger retroalimentación.
+- **Todos ↔ Project Manager (Lucía):** Como líder del equipo, Lucía es el enlace principal entre todos los miembros, asegurándose de que la información fluya correctamente y que no haya malentendidos.
+
+### 📊 **Diagrama de comunicación simplificado:**
+```
+Ana (Cliente) ↔ Mateo (Analista) ↔ Lucía (Project Manager)
+Lucía (Project Manager) ↔ Carlos (Desarrollador)
+Lucía (Project Manager) ↔ Valeria (Tester)
+Carlos (Desarrollador) ↔ Valeria (Tester)
+Lucía (Project Manager) ↔ Ana (Cliente)
+```
+
+✅ **Puntos clave:**  
+- Las dudas del desarrollador y tester deben pasar primero por la Project Manager para mantener un flujo ordenado.
+- El analista es quien más contacto tiene con el cliente en la etapa inicial para entender bien las necesidades.
+- La retroalimentación fluye en ambas direcciones para garantizar que el resultado final cumpla con las expectativas.
+
+💡 **Reflexión:** Una buena comunicación evita confusiones, ahorra tiempo y mejora la calidad del producto final. Cada rol debe escuchar activamente y compartir información de forma oportuna.
+
+
