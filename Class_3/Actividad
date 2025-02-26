@@ -1,97 +1,102 @@
-# Guía de Aprendizaje: **SCRUM y KANBAN** para equipos de Desarrollo de Software
+# Guía de Aprendizaje: **SCRUM y KANBAN** con Ejemplo Práctico Aplicado a la Organización de un Evento
 
 ## 🎯 **Objetivo de la guía**
-Esta guía tiene como propósito que los equipos comprendan las metodologías ágiles **SCRUM** y **KANBAN** mediante una explicación teórica y la realización de un ejercicio práctico utilizando **72 piezas de LEGO** y materiales reciclados. Al finalizar la actividad, podrán identificar las etapas de SCRUM, el uso de un tablero KANBAN y la relación entre ambas metodologías.
+Esta guía tiene como propósito que los equipos comprendan las metodologías ágiles **SCRUM** y **KANBAN** mediante una explicación teórica detallada y un ejemplo práctico aplicado a la **organización de un evento**. Se abordarán situaciones como limitaciones de recursos, cambios de historias de usuario durante un sprint y la relación con los **stakeholders**. Además, se incluyen consejos prácticos para crear buenas historias de usuario, definir tareas claras y organizarlas eficazmente en KANBAN.
 
 ---
 
 ## 📝 **¿Qué son SCRUM y KANBAN?**
 
 ### 🚀 **SCRUM**
-SCRUM es un marco de trabajo ágil utilizado para desarrollar productos complejos, principalmente en software. Se basa en iteraciones llamadas **sprints** que permiten entregar funcionalidades incrementales del producto.
+SCRUM es un marco de trabajo ágil utilizado para gestionar proyectos complejos. Se basa en iteraciones de tiempo fijo llamadas **sprints**, en las cuales se entregan incrementos funcionales del producto o servicio. SCRUM promueve la colaboración, la adaptabilidad a cambios y la entrega rápida de valor.
+
+#### **Roles principales en SCRUM:**
+- **Product Owner:** Representa a los stakeholders y es responsable de definir y priorizar las historias de usuario.
+- **Scrum Master:** Facilita el proceso y elimina obstáculos para el equipo.
+- **Equipo de desarrollo:** Ejecuta las tareas necesarias para cumplir con los objetivos del sprint.
+- **Stakeholders:** Interesados externos que aportan requerimientos y feedback.
+
+#### **Eventos clave en SCRUM:**
+1. **Sprint Planning:** Planificación de las tareas a realizar en el sprint.
+2. **Daily Scrum:** Reunión diaria para revisar avances y obstáculos.
+3. **Sprint Review:** Presentación de los resultados al finalizar el sprint.
+4. **Sprint Retrospective:** Reflexión para mejorar procesos futuros.
+
+---
 
 ### 📊 **KANBAN**
-KANBAN es una metodología visual para gestionar tareas de forma continua, ayudando a optimizar el flujo de trabajo y reducir los cuellos de botella mediante un tablero con columnas.
+KANBAN es un sistema visual para gestionar el flujo de trabajo de forma continua. Permite ver el estado de las tareas y detectar cuellos de botella mediante un tablero dividido en columnas.
+
+#### **Elementos básicos de KANBAN:**
+- **Columnas:** Representan las etapas del proceso (Ej. To Do, In Progress, Review, Done).
+- **Tarjetas:** Cada tarjeta representa una tarea o historia de usuario.
+- **Límites de trabajo en curso (WIP - Work In Progress):** Controlan la cantidad de tareas simultáneas para evitar la sobrecarga.
 
 ---
 
-## 🔄 **Relación entre SCRUM y KANBAN**
-Aunque SCRUM trabaja en sprints y KANBAN en flujo continuo, ambas metodologías pueden complementarse. En SCRUM se puede usar un tablero KANBAN para visualizar el progreso de las tareas durante el sprint.
+## 🧩 **Ejercicio práctico: Organización de un Evento Corporativo**
+
+### 📝 **1. Identificación de stakeholders y recopilación de requerimientos**
+Los **stakeholders** incluyen a los organizadores, asistentes y patrocinadores. Sus solicitudes se recopilan y transforman en **historias de usuario**.
+
+### 🗓️ **2. Creación del Product Backlog**
+El Product Owner organiza las historias de usuario en un backlog priorizado. El equipo descompone estas historias en tareas claras y estimadas.
 
 ---
 
-## 🧩 **Ejercicio práctico: Construyendo una ciudad con LEGO**
+## 📑 **Entregables individuales y del equipo**
+Cada miembro del equipo deberá entregar los siguientes documentos y evidencias al finalizar la actividad:
 
-### 🧱 **Materiales requeridos:**
-- **72 piezas de LEGO** (diferentes tamaños y colores).
-- **Materiales reciclados**: el equipo debe gestionar o conseguir cartón (para la base de la ciudad), marcadores (para dibujar calles), cinta adhesiva y hojas (para etiquetas y carteles).
-- Hojas o post-its para el **tablero KANBAN**.
-- Reloj o cronómetro.
+### 📝 **Entregables individuales:**
+- **Reflexión personal:** Documento de 1 página donde se describa:
+  - Qué aprendiste durante la actividad.
+  - Retos enfrentados y cómo los solucionaste.
+  - Lecciones para aplicar en futuros proyectos.
+- **Propuesta de mejora:** Sugerencia individual para optimizar la dinámica o el proceso de trabajo.
 
-### 🌆 **Reto:**
-Construir una mini ciudad que incluya diversos elementos urbanos definidos por el equipo.
-
----
-
-## 🧭 **Parte 1: Aplicando SCRUM**
-
-### 📝 **1. Product Backlog**
-El equipo deberá elaborar una lista con todas las tareas necesarias para construir la ciudad.
-
----
-
-### 🗓️ **2. Sprint Planning**
-El equipo seleccionará las tareas que se completarán en un sprint de tiempo limitado, estableciendo prioridades y asignando responsabilidades.
+### 🧑‍🤝‍🧑 **Entregables del equipo:**
+- **Product Backlog completo:** Con historias de usuario, criterios de aceptación, tareas y estimaciones.
+- **Tablero KANBAN actualizado:** Fotografía o captura mostrando el estado final de las tareas.
+- **Sprint Review documentada:** Resumen de lo presentado a los stakeholders.
+- **Sprint Retrospective:** Documento con las respuestas a:
+  - ¿Qué funcionó bien?
+  - ¿Qué se puede mejorar?
+  - ¿Qué acciones tomarán en futuros proyectos?
 
 ---
 
-### 🏃‍♂️ **3. Sprint**
-Durante el sprint, el equipo ejecutará las tareas seleccionadas enfocándose en alcanzar los objetivos propuestos.
+## 📝 **Evaluación final**
+La evaluación se basará en dos aspectos principales:
+- **Entrega completa de los entregables (40%)**
+- **Sustentación en clase (60%)**
 
-### 🗣️ **4. Daily Scrum (simulado)**
-El equipo realizará una breve reunión para responder:
-- ¿Qué hicimos hasta ahora?
-- ¿Qué vamos a hacer después?
-- ¿Hay algún obstáculo? 
+### 📂 **1. Entrega completa de los entregables (40%)**
+Criterios considerados:
+- Entrega puntual y completa de todos los documentos requeridos.
+- Claridad y organización en la presentación de la información.
+- Cumplimiento de los criterios de aceptación en las historias de usuario.
+- Coherencia entre el Product Backlog, el tablero KANBAN y la documentación de las reuniones.
 
----
+### 🗣️ **2. Sustentación en clase (60%)**
+Criterios considerados:
+- Claridad en la exposición: Capacidad para explicar el trabajo realizado de forma comprensible.
+- Dominio de conceptos: Uso adecuado de términos relacionados con SCRUM y KANBAN.
+- Participación equitativa: Todos los miembros deben intervenir de forma equilibrada.
+- Respuesta a preguntas: Capacidad para responder preguntas de forma precisa y argumentada.
+- Análisis crítico y reflexivo: Identificación de aciertos, dificultades y propuestas de mejora durante la exposición.
 
-### ✅ **5. Sprint Review**
-Al finalizar el sprint, el equipo presentará lo construido y recibirá retroalimentación.
-
----
-
-### 🔎 **6. Sprint Retrospective**
-El equipo analizará lo que funcionó bien y qué aspectos se pueden mejorar para futuros sprints.
-
----
-
-## 📋 **Parte 2: Usando el tablero KANBAN**
-
-### 🧷 **1. Preparación del tablero**
-El equipo deberá crear un tablero con las columnas:
-- **To Do** (Por hacer)
-- **In Progress** (En progreso)
-- **Done** (Hecho)
-
-### 🏗️ **2. Asignación de tareas**
-Las tareas definidas en el Product Backlog se ubicarán en la columna "To Do" y se moverán conforme avancen.
+### 🏆 **Puntajes y niveles de logro:**
+- **5:** Excelente desempeño.
+- **4:** Muy buen desempeño.
+- **3:** Buen desempeño.
+- **2:** Desempeño aceptable con oportunidades de mejora.
+- **1:** Requiere reforzar conceptos y aplicación práctica.
+- **0:** No cumplió con los requisitos mínimos de la actividad.
 
 ---
 
-## 🛠️ **Parte 3: Reflexión final**
+## 🎯 **Conclusión**
+Esta actividad no solo busca comprender las metodologías **SCRUM** y **KANBAN**, sino también promover la colaboración, el pensamiento crítico y la responsabilidad individual y grupal. Los entregables y la evaluación están diseñados para asegurar un aprendizaje integral y aplicable en situaciones reales de desarrollo de proyectos.
 
-### 🤔 **Preguntas para discutir:**
-1. ¿Cómo ayudó SCRUM a organizar el trabajo del equipo?
-2. ¿El tablero KANBAN facilitó visualizar el avance? ¿Cómo?
-3. ¿Qué haría diferente el equipo en el próximo sprint?
-4. ¿Cómo se puede aplicar esto al desarrollo de software?
+¡Trabaja en equipo, reflexiona sobre tu aprendizaje y prepárate para aplicar estas herramientas en futuros desafíos! 🚀
 
----
-
----
-
-## 🎉 **Conclusión**
-SCRUM y KANBAN son metodologías ágiles que ayudan a organizar y visualizar mejor el trabajo del equipo. Mediante la práctica de construcción con LEGO, se experimenta cómo planificar, ejecutar y revisar tareas en un proyecto.
-
-¡Aplica estas herramientas en tus futuros desarrollos de software! 🚀
