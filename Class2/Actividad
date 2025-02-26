@@ -1,0 +1,98 @@
+# Guía de Aprendizaje: **SCRUM y KANBAN** para equipos de Desarrollo de Software
+
+## 🎯 **Objetivo de la guía**
+Esta guía tiene como propósito que los equipos comprendan las metodologías ágiles **SCRUM** y **KANBAN** mediante una explicación teórica y la realización de un ejercicio práctico utilizando **72 piezas de LEGO** y materiales reciclados. Al finalizar la actividad, podrán identificar las etapas de SCRUM, el uso de un tablero KANBAN y la relación entre ambas metodologías.
+
+---
+
+## 📝 **¿Qué son SCRUM y KANBAN?**
+
+### 🚀 **SCRUM**
+SCRUM es un marco de trabajo ágil utilizado para desarrollar productos complejos, principalmente en software. Se basa en iteraciones llamadas **sprints** que permiten entregar funcionalidades incrementales del producto.
+
+### 📊 **KANBAN**
+KANBAN es una metodología visual para gestionar tareas de forma continua, ayudando a optimizar el flujo de trabajo y reducir los cuellos de botella mediante un tablero con columnas.
+
+---
+
+## 🔄 **Relación entre SCRUM y KANBAN**
+Aunque SCRUM trabaja en sprints y KANBAN en flujo continuo, ambas metodologías pueden complementarse. En SCRUM se puede usar un tablero KANBAN para visualizar el progreso de las tareas durante el sprint.
+
+---
+
+## 🧩 **Ejercicio práctico: Construyendo una ciudad con LEGO**
+
+### 🧱 **Materiales requeridos:**
+- **72 piezas de LEGO** (diferentes tamaños y colores).
+- **Materiales reciclados**: el equipo debe gestionar o conseguir cartón (para la base de la ciudad), marcadores (para dibujar calles), cinta adhesiva y hojas (para etiquetas y carteles).
+- Hojas o post-its para el **tablero KANBAN**.
+- Reloj o cronómetro.
+
+### 🌆 **Reto:**
+Construir una mini ciudad que incluya diversos elementos urbanos definidos por el equipo.
+
+---
+
+## 🧭 **Parte 1: Aplicando SCRUM**
+
+### 📝 **1. Product Backlog**
+El equipo deberá elaborar una lista con todas las tareas necesarias para construir la ciudad.
+
+---
+
+### 🗓️ **2. Sprint Planning**
+El equipo seleccionará las tareas que se completarán en un sprint de tiempo limitado, estableciendo prioridades y asignando responsabilidades.
+
+---
+
+### 🏃‍♂️ **3. Sprint**
+Durante el sprint, el equipo ejecutará las tareas seleccionadas enfocándose en alcanzar los objetivos propuestos.
+
+### 🗣️ **4. Daily Scrum (simulado)**
+El equipo realizará una breve reunión para responder:
+- ¿Qué hicimos hasta ahora?
+- ¿Qué vamos a hacer después?
+- ¿Hay algún obstáculo? 
+
+---
+
+### ✅ **5. Sprint Review**
+Al finalizar el sprint, el equipo presentará lo construido y recibirá retroalimentación.
+
+---
+
+### 🔎 **6. Sprint Retrospective**
+El equipo analizará lo que funcionó bien y qué aspectos se pueden mejorar para futuros sprints.
+
+---
+
+## 📋 **Parte 2: Usando el tablero KANBAN**
+
+### 🧷 **1. Preparación del tablero**
+El equipo deberá crear un tablero con las columnas:
+- **To Do** (Por hacer)
+- **In Progress** (En progreso)
+- **Done** (Hecho)
+
+### 🏗️ **2. Asignación de tareas**
+Las tareas definidas en el Product Backlog se ubicarán en la columna "To Do" y se moverán conforme avancen.
+
+---
+
+## 🛠️ **Parte 3: Reflexión final**
+
+### 🤔 **Preguntas para discutir:**
+1. ¿Cómo ayudó SCRUM a organizar el trabajo del equipo?
+2. ¿El tablero KANBAN facilitó visualizar el avance? ¿Cómo?
+3. ¿Qué haría diferente el equipo en el próximo sprint?
+4. ¿Cómo se puede aplicar esto al desarrollo de software?
+
+---
+
+---
+
+## 🎉 **Conclusión**
+SCRUM y KANBAN son metodologías ágiles que ayudan a organizar y visualizar mejor el trabajo del equipo. Mediante la práctica de construcción con LEGO, se experimenta cómo planificar, ejecutar y revisar tareas en un proyecto.
+
+¡Aplica estas herramientas en tus futuros desarrollos de software! 🚀
+
