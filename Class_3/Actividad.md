@@ -1,7 +1,7 @@
-# Guía de Aprendizaje: **SCRUM y KANBAN** con Ejemplo Práctico Aplicado a la Organización de un Evento
+# Guía de Aprendizaje: **SCRUM y KANBAN** con Ejemplo Práctico: Construcción de una Ciudad con LEGO
 
 ## 🎯 **Objetivo de la guía**
-Esta guía tiene como propósito que los equipos comprendan las metodologías ágiles **SCRUM** y **KANBAN** mediante una explicación teórica detallada y un ejemplo práctico aplicado a la **organización de un evento**. Se abordarán situaciones como limitaciones de recursos, cambios de historias de usuario durante un sprint y la relación con los **stakeholders**. Además, se incluyen consejos prácticos para crear buenas historias de usuario, definir tareas claras y organizarlas eficazmente en KANBAN.
+Esta guía tiene como propósito que los equipos comprendan las metodologías ágiles **SCRUM** y **KANBAN** mediante una explicación teórica detallada y un ejemplo práctico basado en la **construcción de una ciudad utilizando 72 piezas de LEGO** y materiales reciclados. Se abordarán situaciones como limitaciones de recursos, cambios en las historias de usuario durante un sprint y la relación con los **stakeholders**. Además, se incluyen consejos prácticos para crear buenas historias de usuario, definir tareas claras y organizarlas eficazmente en KANBAN.
 
 ---
 
@@ -34,13 +34,70 @@ KANBAN es un sistema visual para gestionar el flujo de trabajo de forma continua
 
 ---
 
-## 🧩 **Ejercicio práctico: Organización de un Evento Corporativo**
+## 🧩 **Ejercicio práctico: Construcción de una Ciudad con LEGO**
 
-### 📝 **1. Identificación de stakeholders y recopilación de requerimientos**
-Los **stakeholders** incluyen a los organizadores, asistentes y patrocinadores. Sus solicitudes se recopilan y transforman en **historias de usuario**.
+### 🏗️ **Descripción de la actividad**
+El equipo deberá **construir una ciudad** utilizando:
+- **72 piezas de LEGO** (de diferentes tamaños y colores).
+- **Materiales reciclados**: El equipo debe gestionar o conseguir cartón (para la base de la ciudad), marcadores (para dibujar calles), cinta adhesiva y hojas (para etiquetas y carteles).
+- Hojas o post-its para crear el **tablero KANBAN**.
 
-### 🗓️ **2. Creación del Product Backlog**
-El Product Owner organiza las historias de usuario en un backlog priorizado. El equipo descompone estas historias en tareas claras y estimadas.
+### 🌆 **Objetivo del reto**
+Diseñar y construir una mini ciudad que incluya elementos urbanos como:
+- Casas
+- Edificios
+- Calles o carreteras
+- Espacios públicos (plazas, parques)
+- Áreas comerciales o de servicios
+
+Cada equipo decidirá qué elementos incluir, priorizando según las historias de usuario y recursos disponibles.
+
+---
+
+## 🧭 **Parte 1: Aplicando SCRUM**
+
+### 📝 **1. Product Backlog**
+El equipo deberá elaborar un **Product Backlog** con todas las historias de usuario que representen las necesidades de los habitantes de la ciudad. Cada historia debe tener criterios de aceptación claros.
+
+### 🗓️ **2. Sprint Planning**
+- Definirán las historias que se abordarán durante el sprint.
+- Desglosarán las historias en tareas pequeñas y asignarán responsables.
+- Establecerán una meta para el sprint (ejemplo: "Completar la zona residencial y la vía principal").
+
+### 🏃‍♂️ **3. Sprint**
+Durante el sprint, el equipo ejecutará las tareas planificadas enfocándose en alcanzar la meta definida.
+
+### 🗣️ **4. Daily Scrum (simulado)**
+Realizarán reuniones breves para responder:
+- ¿Qué hemos logrado hasta ahora?
+- ¿Qué haremos a continuación?
+- ¿Hay algún obstáculo que impida el progreso?
+
+---
+
+### ✅ **5. Sprint Review**
+Al finalizar el sprint, el equipo presentará la ciudad construida y explicará cómo se cumplieron las historias de usuario priorizadas. Los stakeholders (representados por otros equipos o el instructor) brindarán retroalimentación.
+
+---
+
+### 🔎 **6. Sprint Retrospective**
+El equipo reflexionará sobre:
+- Lo que funcionó bien durante el sprint.
+- Los desafíos que enfrentaron y cómo los superaron.
+- Aspectos que pueden mejorar para el siguiente sprint.
+
+---
+
+## 📋 **Parte 2: Usando el tablero KANBAN**
+
+### 🧷 **1. Preparación del tablero**
+El equipo deberá crear un tablero con las columnas:
+- **To Do (Por hacer)**: Tareas que aún no se inician.
+- **In Progress (En progreso)**: Tareas que se están ejecutando.
+- **Done (Hecho)**: Tareas finalizadas.
+
+### 🏗️ **2. Asignación y movimiento de tareas**
+Las tareas definidas en el Product Backlog se colocarán en la columna "To Do" y se moverán conforme se avance en su ejecución. Se recomienda establecer límites de WIP para evitar la sobrecarga del equipo.
 
 ---
 
@@ -96,7 +153,7 @@ Criterios considerados:
 ---
 
 ## 🎯 **Conclusión**
-Esta actividad no solo busca comprender las metodologías **SCRUM** y **KANBAN**, sino también promover la colaboración, el pensamiento crítico y la responsabilidad individual y grupal. Los entregables y la evaluación están diseñados para asegurar un aprendizaje integral y aplicable en situaciones reales de desarrollo de proyectos.
+Esta actividad busca que los equipos comprendan y experimenten las metodologías **SCRUM** y **KANBAN** en un entorno práctico y creativo. Construir una ciudad con LEGO permite vivenciar el trabajo colaborativo, la gestión visual de tareas y la adaptación a cambios durante el desarrollo de un proyecto.
 
-¡Trabaja en equipo, reflexiona sobre tu aprendizaje y prepárate para aplicar estas herramientas en futuros desafíos! 🚀
+¡Diviértete, aprende y prepárate para aplicar estas herramientas en tus futuros desafíos! 🚀
 
