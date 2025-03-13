@@ -1,6 +1,6 @@
 # **Casos de Estudio para la Identificación de Requerimientos de Usuario**  
 
-Para reforzar los conocimientos adquiridos, se presentan siete casos de estudio donde los aprendices deberán identificar los requerimientos funcionales y no funcionales. En cada caso, los requisitos han sido mezclados para que los aprendices realicen el ejercicio de clasificarlos correctamente.  
+Para reforzar los conocimientos adquiridos, se presentan siete casos de estudio donde los aprendices deberán identificar los requerimientos funcionales y no funcionales. En cada caso, los requisitos han sido mezclados para que los estudiantes realicen el ejercicio de clasificarlos correctamente.  
 
 ---
 
