@@ -123,7 +123,9 @@ Los estudiantes deben analizar cada caso y elaborar:
 1. Una lista de **requerimientos funcionales y no funcionales** por separado.  
 2. Un wireframe básico para visualizar la interfaz del usuario principal del sistema.  
 3. Crear las **historias de usuario** correspondientes, estructuradas de la siguiente manera:  
-   - *Como [tipo de usuario], quiero [funcionalidad] para [objetivo o beneficio].*  
+   - *Como [tipo de usuario], quiero [funcionalidad] para [objetivo o beneficio].*
+4. Crear los **Criterios de Aceptación**
+5. (Opcional) Crear el Product Backlog y el Kanban para el primer Sprint
 
 Estos ejercicios permitirán aplicar los conceptos aprendidos y fortalecer la capacidad de análisis y documentación de requerimientos.
 
